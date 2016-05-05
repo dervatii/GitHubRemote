@@ -13,6 +13,7 @@
 		D40E25271CDB7AE20096B2E8 /* GitHubRemote.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D40E25251CDB7AE20096B2E8 /* GitHubRemote.xcdatamodeld */; };
 		D40E25291CDB7AE20096B2E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D40E25281CDB7AE20096B2E8 /* Assets.xcassets */; };
 		D40E252C1CDB7AE20096B2E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D40E252A1CDB7AE20096B2E8 /* LaunchScreen.storyboard */; };
+		D40E25341CDB7BEA0096B2E8 /* Branch1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40E25331CDB7BEA0096B2E8 /* Branch1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D40E25281CDB7AE20096B2E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D40E252B1CDB7AE20096B2E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D40E252D1CDB7AE20096B2E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D40E25331CDB7BEA0096B2E8 /* Branch1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Branch1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D40E251E1CDB7AE20096B2E8 /* AppDelegate.swift */,
 				D40E25201CDB7AE20096B2E8 /* ViewController.swift */,
+				D40E25331CDB7BEA0096B2E8 /* Branch1.swift */,
 				D40E25221CDB7AE20096B2E8 /* Main.storyboard */,
 				D40E25281CDB7AE20096B2E8 /* Assets.xcassets */,
 				D40E252A1CDB7AE20096B2E8 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				D40E25271CDB7AE20096B2E8 /* GitHubRemote.xcdatamodeld in Sources */,
 				D40E25211CDB7AE20096B2E8 /* ViewController.swift in Sources */,
 				D40E251F1CDB7AE20096B2E8 /* AppDelegate.swift in Sources */,
+				D40E25341CDB7BEA0096B2E8 /* Branch1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
